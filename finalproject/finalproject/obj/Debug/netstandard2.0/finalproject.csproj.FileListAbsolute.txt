@@ -14,3 +14,4 @@ C:\Users\yilma\source\repos\finalproject\finalproject\finalproject\bin\Debug\net
 C:\Users\yilma\source\repos\finalproject\finalproject\finalproject\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\yilma\source\repos\finalproject\finalproject\finalproject\obj\Debug\netstandard2.0\RenewPasswordPage.xaml.g.cs
 C:\Users\yilma\source\repos\finalproject\finalproject\finalproject\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs
+C:\Users\yilma\source\repos\finalproject\finalproject\finalproject\obj\Debug\netstandard2.0\HorrorListPage.xaml.g.cs
