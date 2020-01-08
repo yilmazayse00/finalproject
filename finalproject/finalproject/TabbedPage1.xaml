@@ -29,6 +29,15 @@
             </ScrollView>
         </Grid>
     </ContentPage>
-    <ContentPage Title="Search" />
+    <ContentPage Title="Search">
+        <SearchBar Placeholder="Search"
+           CancelButtonColor="LightSkyBlue"
+           PlaceholderColor="LightSkyBlue"
+           TextColor="Orange"
+           HorizontalTextAlignment="Center"
+           FontSize="Medium"
+           FontAttributes="Italic"
+           VerticalOptions="Start"/>
+    </ContentPage>
   <ContentPage Title="Profile" />
 </TabbedPage>
