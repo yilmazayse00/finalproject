@@ -6,7 +6,7 @@
              mc:Ignorable="d"
              x:Class="finalproject.TabbedPage1">
   <!--Pages can be added as references or inline-->
-    <ContentPage Title="Home">
+    <ContentPage IconImageSource="home.jpg">
         <Grid RowSpacing="10" Padding="10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="*"/>
@@ -29,7 +29,7 @@
             </ScrollView>
         </Grid>
     </ContentPage>
-    <ContentPage Title="Search">
+    <ContentPage IconImageSource="search.png">
         <SearchBar Placeholder="Search"
            CancelButtonColor="LightSkyBlue"
            PlaceholderColor="LightSkyBlue"
@@ -39,5 +39,5 @@
            FontAttributes="Italic"
            VerticalOptions="Start"/>
     </ContentPage>
-  <ContentPage Title="Profile" />
+  <ContentPage IconImageSource="fav.png"/>
 </TabbedPage>
