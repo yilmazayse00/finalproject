@@ -30,8 +30,8 @@
 
         <StackLayout Grid.Row="1">
             <StackLayout>
-                <Entry x:Name="email" Placeholder="E-mail address" PlaceholderColor="#6c6e77" BackgroundColor="White" HeightRequest="50"/>
-                <Entry x:Name="password" IsPassword="True" Placeholder="Password" PlaceholderColor="#6c6e77" BackgroundColor="White" HeightRequest="50"/>
+                <Entry x:Name="email" Placeholder="E-mail address" PlaceholderColor="White" HeightRequest="50"/>
+                <Entry x:Name="password" IsPassword="True" Placeholder="Password" PlaceholderColor="White" HeightRequest="50"/>
             </StackLayout>
             <StackLayout>
                 <Button Text="SIGN IN" TextColor="White" BackgroundColor="LightSeaGreen" HeightRequest="50" FontAttributes="Bold" CornerRadius="30" Clicked="SignInButton_OnClicked"></Button>
